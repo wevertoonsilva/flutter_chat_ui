@@ -25,6 +25,9 @@ dependency_overrides:
   flutter_chat_types:
     git:
       url: https://github.com/wevertoonsilva/flutter_chat_types
+  flutter_link_previewer:
+    git:
+      url: https://github.com/wevertoonsilva/flutter_link_previewer
 
 dev_dependencies:
   flutter_test:
